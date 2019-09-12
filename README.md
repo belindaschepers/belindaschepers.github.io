@@ -2,7 +2,6 @@
 
 **Contributeurs** : *[Belinda Schepers](https://github.com/belindaschepers)*
 
-![pc working](https://cdn3.vectorstock.com/i/1000x1000/30/02/person-programmer-working-on-pc-laptop-with-vector-19533002.jpg)
 
 #### Description
 
@@ -17,4 +16,6 @@ Projet sous license MIT.
 
 * Merci à mes collègues pour l'aide précieuse 
 * **Dinesh Pandiyan** pour le modèle.
+
+![dog pc working](https://media.tenor.com/images/00584184c2ed43e248e65713bf1a920f/tenor.gif)
 
